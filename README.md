@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [Travel](Travel)
 
-- 💬 Ask me about **My Resume**
+- 💬 Ask me about **My Website Link: https://angeldesignsandbuilds.wordpress.com/**
 
 - 📫 How to reach me **angeldesignsandbuilds@gmail.com**
 
