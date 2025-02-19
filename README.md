@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Travel Checklist Website**
 
-- 🌱 I’m currently learning **ASW**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Software Developer/ CAD Projects**
 
